@@ -1,4 +1,4 @@
-package com.lambdaschool.part01TightlyCoupled;
+package lambdaschool.part01TightlyCoupled;
 
 public class Main
 {
